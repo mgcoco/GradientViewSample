@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GradientViewSample</string>
+    
+    <string-array name="control_point">
+        <item>0.1,0</item>
+        <item>0.9,0.25</item>
+        <item>0.1,0.5</item>
+        <item>0.9,0.75</item>
+        <item>0.1,1</item>
+    </string-array>
+</resources>
